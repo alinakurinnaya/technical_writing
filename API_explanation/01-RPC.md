@@ -3,7 +3,7 @@
 
 ---
 
-<p><a href="00-intro.md">← Введение</a> · <a href="00-intro.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5">Оглавление</a></p>
+<p><a href="00-introduction.md">← Введение</a> · <a href="00-introduction.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5">Оглавление</a></p>
 <h1 id="как-программы-учились-общаться-эра-rpc-до-rest">Как программы учились общаться: эра RPC до REST</h1>
 <h1 id="как-программы-учились-общаться-эра-rpc">Как программы учились общаться: эра RPC</h1>
 <blockquote>
