@@ -6,7 +6,7 @@
 <p><a href="00-introduction.md">← Введение</a> · <a href="00-introduction.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5">Оглавление</a></p>
 <h1 id="как-программы-учились-общаться-эра-rpc">Как программы учились общаться: эра RPC</h1>
 <blockquote>
-<p><strong>Ключевые термины главы:</strong> <a href="#rpc">RPC</a> · <a href="#stub">клиентский стаб</a> · <a href="#skeleton">серверный скелет</a> · <a href="#serialization">сериализация</a> · <a href="#idl">IDL</a> · <a href="#orb">ORB</a> · <a href="#com">COM</a> · <a href="#clsid">CLSID</a></p>
+<p><strong>Ключевые термины главы:</strong> <a href="#rpc">RPC</a> · <a href="#stub">клиентский стаб</a> · <a href="#skeleton">серверный скелет</a> · <a href="#serialization">сериализация</a> · <a href="#idl">IDL</a> · <a href="#orb">ORB</a> · <a href="#com">COM</a></p>
 </blockquote>
 <p>Прежде чем API стали наборами ресурсов и HTTP-методов, разработчики мыслили по-другому. Им хотелось вызывать удалённую функцию так же просто, как локальную. Эта идея породила RPC и на несколько лет определила, как выглядели первые API.</p>
 <h2 id="что-такое-rpc">Что такое RPC</h2>
