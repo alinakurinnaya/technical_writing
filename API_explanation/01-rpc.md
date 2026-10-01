@@ -4,7 +4,7 @@
 ---
 
 <p><a href="00-introduction.md">← Введение и оглавление</a></p>
-<h1 id="как-программы-учились-общаться-эра-rpc">Как программы учились общаться: эра RPC</h1>
+<h1 id="rpc-как-программы-учились-общаться">RPC: как программы учились общаться</h1>
 <blockquote>
 <p><strong>Ключевые термины главы:</strong> <a href="#rpc">RPC</a> · <a href="#stub">клиентский стаб</a> · <a href="#skeleton">серверный скелет</a> · <a href="#serialization">сериализация</a> · <a href="#idl">IDL</a> · <a href="#orb">ORB</a> · <a href="#com">COM</a></p>
 </blockquote>
